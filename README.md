@@ -1,10 +1,12 @@
 # Practical Python for Time Series Analysis
 
-Welcome to the course repository for **Practical Python for Time Series Analysis** on LinkedIn Learning!
+Welcome to the course repository for **Practical Python for Time Series Analysis** on LinkedIn Learning.
+
+![lil-thumbnail-url]
 
 ## Course Overview
 
-This course provides hands-on experience with time series analysis using Python. You'll learn essential techniques for working with temporal data, from basic data manipulation to advanced forecasting methods.
+In this course, Python and data scientist Jesus Lopez focuses on practical time series analysis in Python, emphasizing explainability and discovering causal relationships. Discover methods for understanding why patterns emerge, what variables drive changes over time, and how to interpret results responsibly. All topics are taught through hands-on examples, mainly from the energy sector, so you can apply insights directly to real-world data. Build the understanding you need to transform raw time series data into meaningful explanations that inform strategic decisions.
 
 ### What You'll Learn
 
@@ -152,8 +154,18 @@ Key Python packages used in this course:
 
 This project is licensed under the terms included in the LinkedIn Learning course materials.
 
-## Author
+## Instructor
 
-Created for LinkedIn Learning by [Your Name]
+Jesus Lopez
 
-- Video 1
+Python and Data Scientist, Trainer, Consultant             
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/jesus-lopez?u=104).
+
+
+[0]: # (Replace these placeholder URLs with actual course URLs)
+
+[lil-course-url]: https://www.linkedin.com/learning/practical-python-for-time-series-analysis
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQFVR6lftIVw2Q/learning-public-crop_675_1200/B4EZq4yo3wIwAY-/0/1764036874550?e=2147483647&v=beta&t=uzYxeJaNvPBgSHd8mUqr2V31v8_CEv1oAsskoBI2DPs
+
+
